@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "yourinnerworld",
-    "currentPage": "yourinnerworld.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -70,7 +70,7 @@
     "publishChangesOnly": true
   },
   "pages": {
-    "yourinnerworld.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Your Inner World",
